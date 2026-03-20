@@ -205,7 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-<<<<<<< HEAD
 
 
 
@@ -237,5 +236,3 @@ dist-ssr
 
 
 
-=======
->>>>>>> ebd7ab8c3deb72878be186b0632f21f4feb610c4
