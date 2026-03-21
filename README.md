@@ -1,4 +1,4 @@
-# Ragini 🎓
+# Tatvagyan 🎓
 
 An AI-powered study assistant for CBSE students (Classes 6–12), built with RAG (Retrieval-Augmented Generation). Tatvagyan answers curriculum-based questions using NCERT textbooks as its knowledge base.
 
