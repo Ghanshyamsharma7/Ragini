@@ -8,9 +8,9 @@ function Login() {
     <div className="login-root">
       <div className="login-card">
         <div className="login-logo">
-          <span>R</span>
+          <span>T</span>
         </div>
-        <h1 className="login-title">Ragini</h1>
+        <h1 className="login-title">Tatvagyan</h1>
         <p className="login-sub">Your personal AI study assistant</p>
 
         <button onClick={login} className="login-google-btn">

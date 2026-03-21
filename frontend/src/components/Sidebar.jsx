@@ -14,7 +14,7 @@ function Sidebar({ sessions, onNew, onSelect, onDelete, isOpen }) {
       <div className="sidebar-header">
         <div className="sidebar-brand">
           <span className="brand-dot" />
-          Ragini
+          Tatvagyan
         </div>
         <button className="new-chat-btn" onClick={onNew} title="New Chat">
           <PlusIcon className="icon-sm" />

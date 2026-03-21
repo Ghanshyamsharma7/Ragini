@@ -167,10 +167,10 @@ function Chat() {
           {/* Welcome screen — only when no messages */}
           {!hasMessages && (
             <div className="welcome-area">
-              <div className="welcome-avatar">R</div>
+              <div className="welcome-avatar">T</div>
               <h1 className="welcome-heading">Hi, {firstName} 👋</h1>
               <p className="welcome-sub">
-                I'm Ragini, your personal study assistant.<br />
+                I'm Tatvagyan, your personal study assistant.<br />
                 Select your class and subject to get started.
               </p>
               <div className="selector-card">

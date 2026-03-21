@@ -1,12 +1,12 @@
 # Ragini 🎓
 
-An AI-powered study assistant for CBSE students (Classes 6–12), built with RAG (Retrieval-Augmented Generation). Ragini answers curriculum-based questions using NCERT textbooks as its knowledge base.
+An AI-powered study assistant for CBSE students (Classes 6–12), built with RAG (Retrieval-Augmented Generation). Tatvagyan answers curriculum-based questions using NCERT textbooks as its knowledge base.
 
 ---
 
 ## What it does
 
-Students select their class and subject, then ask questions in Hindi or English. Ragini retrieves relevant content from NCERT textbooks and generates accurate, curriculum-aligned answers using Gemini AI.
+Students select their class and subject, then ask questions in Hindi or English. Tatvagyan retrieves relevant content from NCERT textbooks and generates accurate, curriculum-aligned answers using Gemini AI.
 
 ---
 
@@ -191,3 +191,10 @@ Both scripts are resumable — safe to stop and restart anytime.
 - 🗑️ Session management — create, switch, delete
 - 📱 Responsive UI — works on mobile and desktop
 
+
+
+
+![Login Page](frontend/src/assets/tatva1.png)
+![Chat](frontend/src/assets/tatva2.png)
+![Short Answer](frontend/src/assets/tatva3.png)
+![Analytical](frontend/src/assets/tatva4.png)
