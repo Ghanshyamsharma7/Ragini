@@ -193,8 +193,12 @@ Both scripts are resumable — safe to stop and restart anytime.
 
 
 
+##Screenshots
 
 ![Login Page](frontend/src/assets/Tatva1.png)
+
 ![Chat](frontend/src/assets/Tatva2.png)
+
 ![Short Answer](frontend/src/assets/Tatva3.png)
+
 ![Analytical](frontend/src/assets/Tatva4.png)
